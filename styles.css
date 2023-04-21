@@ -7,7 +7,7 @@ ol{color: black;font-family:'Lato'}
 ul{color: black;font-family:'Lato'}
 body{background-color:rgba(4, 68, 75, 0.267)}
 
-button{display: inline-block;
+#button{display: inline-block;
     outline: 0;
     border:0;
     cursor: pointer;
